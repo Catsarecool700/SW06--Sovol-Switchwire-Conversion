@@ -1,3 +1,3 @@
-![SV06 Switchwire Conversion Final Basic Enclosed](https://github.com/Oldmopars/SW06-Sovol-Switchwire-Conversion/assets/132718373/1e0e4e3d-e768-47c5-aa13-fa85ce3928ec)
+![SV06 Switchwire Conversion Final Basic Enclosed](https://github.com/Catsarecool700/SW06--Sovol-Switchwire-Conversion/blob/main/Working%20on%20it.png)
 # SW06+-Sovol-Switchwire-Conversion
 I own a SV06+ so im modding this to fit that (hopefully) time will tell I guess
